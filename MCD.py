@@ -4,7 +4,7 @@ def mcd():
     num1 = int(input("Ingresa el primer número: "))
     num2 = int(input("Ingresa el segundo número: "))
 
-    # Calcular el MCD utilizando el algoritmo de Euclides
+    # Calcular el MCD 
     while num2:
         num1, num2 = num2, num1 % num2
     
