@@ -1,0 +1,5 @@
+# Realizado por GUILDER PAREDES LOVERA
+def restar():
+    numero1 = int(input("ingrese el 1er numero : "))
+    numero2 = int(input("ingrese el 2do numero : "))
+    return numero1 - numero2
